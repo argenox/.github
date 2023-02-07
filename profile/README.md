@@ -1,10 +1,9 @@
 ## Argenox 👋
 
-# Who we Are
-
 We're Bluetooth, Wi-Fi, and Wireless Connectivity experts
 that help companies cut through the issues and creating amazing products
 
+This repositories contain useful code we use in our work
 
 <!--
 
