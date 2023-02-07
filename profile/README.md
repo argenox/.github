@@ -1,4 +1,4 @@
-## Argenox 👋
+## Argenox
 
 We're Bluetooth, Wi-Fi, and Wireless Connectivity experts
 that help companies cut through the issues and creating amazing products
