@@ -3,7 +3,16 @@
 We're Bluetooth, Wi-Fi, and Wireless Connectivity experts
 that help companies cut through the issues and creating amazing products
 
-This repositories contain useful code we use in our work
+* Hardware Development
+* Firmware
+* Mechanical and Industrial Design
+* Mobile Android and iOS Apps
+
+
+This repositories contain useful code we use in our daily work
+
+
+
 
 <!--
 
