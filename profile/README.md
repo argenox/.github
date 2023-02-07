@@ -7,6 +7,7 @@ that help companies cut through the issues and creating amazing products
 * Firmware
 * Mechanical and Industrial Design
 * Mobile Android and iOS Apps
+* Reverse Engineering
 
 
 This repositories contain useful code we use in our daily work
