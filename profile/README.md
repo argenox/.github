@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/argenox-banner.png" alt="Argenox Banner" width="100%">
+  <img src="assets/argenox-banner.png" alt="Argenox Banner" width="50%">
 </p>
 
 <h1 align="center">Argenox</h1>
